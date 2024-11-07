@@ -18,11 +18,14 @@
 
 Д/з: [Расшифровка материала. Частеречная разметка](hw4-elan-tokens.md)  
 
-#### 4. ELAN. Разметка жестов. [Практикум 5](practicum-elan-intonation.md)  
+#### 5. ELAN. Разметка жестов. [Практикум 5](practicum-elan-intonation.md)  
 
 Д/з: [Расшифровка материала. Жесты и интонация](hw5-elan-gestures.md)  
 
-#### Проект 1 модуля - [project.md](project.md). Срок сдачи - четверг 14.11 в 23:59
+#### Проект 1 модуля - [project.md](project.md). Срок сдачи - четверг 14.11 в 23:59  
+
+
+### 6. Web-корпуса. Aranea. Язык запросов CQL [Практикум 6](practicum-web-corpora.md)
 
 
 ### Лекции
