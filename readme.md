@@ -29,6 +29,10 @@
 
 Д/з: [Поиск в Aranea и НКРЯ](https://docs.google.com/forms/d/e/1FAIpQLSfTBQ5rY-O4hxmnvyd-GvBj4KpNZKMgz0AXGHHAhXYVI8ILXw/viewform)  
 
+#### 7. Конкордансеры. AntConc. [Практикум 7](practicum-antconc.md)
+Д/з: [AntConc]([https://forms.gle/Tp1a37vr4U1FLwNAA](https://docs.google.com/forms/d/e/1FAIpQLSdghM5HUuAP0VGixeJkVVo7hIuxnlxaRSxTEuC6TnuUYdhj_Q/viewform))
+
+
 ### Лекции
 
 1. Кодировки, форматы и структурированное представление текста [презентация1.pdf](1TextFormats1.pdf), [презентация2.md](2TextFormats.md), [видео](https://disk.yandex.ru/i/ziADAK8GTQnDVA)
