@@ -88,7 +88,7 @@ tokens: см. файлы livecorpus2021-text-1.txt ... livecorpus2021-text-10.tx
 #### Полезное  
 * [Руководство по AntConc](http://www.laurenceanthony.net/software/antconc/resources/help_AntConc321_english.pdf) (на английском)  
 * [Видео-тьюториал от автора](https://www.youtube.com/playlist?list=PLiRIDpYmiC0Ta0-Hdvc1D7hG6dmiS_TZj)  
-* [Тьюториал для семинара](https://drive.google.com/file/d/0B6-5pzCmb8MOblpzRXI3elFFeFU/view?usp=sharing)  
+<!--- * [Тьюториал для семинара](https://drive.google.com/file/d/0B6-5pzCmb8MOblpzRXI3elFFeFU/view?usp=sharing)--->
 * [Формулы и оценка коллокационных мер](https://elex.link/elex2017/wp-content/uploads/2017/09/paper32.pdf)  
 
 
