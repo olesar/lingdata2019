@@ -32,11 +32,22 @@
 #### 7. Конкордансеры. AntConc. [Практикум 7](practicum-antconc.md)
 Д/з: [AntConc](https://docs.google.com/forms/d/e/1FAIpQLSdghM5HUuAP0VGixeJkVVo7hIuxnlxaRSxTEuC6TnuUYdhj_Q/viewform)
 
+#### 8. Анализ выдачи из корпуса (работа в табличном редакторе) [Практикум 8](practicum-spreadsheets.md) [видео](https://disk.yandex.ru/i/v2T4N3AaXPS8kQ)
+Д/з: [Сводные таблицы]()
+
+#### Контрольная работа 
+в понедельник 9 ноября на пятой паре 
+[материалы для подготовки](test-drill.md) 
+
 
 ### Лекции
 
 1. Кодировки, форматы и структурированное представление текста [презентация1.pdf](1TextFormats1.pdf), [презентация2.md](2TextFormats.md), [видео](https://disk.yandex.ru/i/ziADAK8GTQnDVA)
 
-2. Цифровые ресурсы для лингвистических исследований [презентация2](https://docs.google.com/presentation/d/1g2wW15yvrkJ6yQrtJV-m9ZN56yr8ADdLvsHFSWqkRAc/edit?usp=sharing)  
+2. Цифровые ресурсы для лингвистических исследований [презентация](https://docs.google.com/presentation/d/1g2wW15yvrkJ6yQrtJV-m9ZN56yr8ADdLvsHFSWqkRAc/edit?usp=sharing)
+
+3. Мультимодальность. Просодия и жестикуляция [презентация](3_multimedia.pdf)
+
+4. Как интерпретировать цифры (частотные списки, значимая лексика, коллокации)   [презентация](https://docs.google.com/presentation/d/1VAbIZPaFMkKdTA0xQBGEUv4Q8OAz5cRZb6YNr6JpUFc)
 
 [Литература](about-reading.md)  
