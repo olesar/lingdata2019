@@ -4,8 +4,12 @@
 Для работы нам понадобятся (Google Таблицы)[https://docs.google.com/spreadsheets]  или Excel, OpenOffice, LibreOffice и им подобные табличные редакторы.  
 
 #### Файл для работы  
-Скачайте выдачу из НКРЯ, Araneum или других корпусов. Скачайте таблицу самых частотных n-грам корпуса.
-Можно взять для работы готовую таблицу выдачи конструкции типа "Человек человеку друг..." [отсюда](https://docs.google.com/spreadsheets/d/1WIUaz2zORr-Cm2R1qVUSNpqdgxcVq1bNl-5Lx0-ltIY/edit?usp=sharing) или таблицу N-грамм [отсюда](https://docs.google.com/spreadsheets/d/1nRaY1rKdbQXDmtiGbYAWqfz0y4N8HMTxthth8iv9N4w/edit?usp=sharing) - сохраните себе их копию.
+Вариант 1 - вторая сравнительная степень в предикативной конструкции типа жить стало легче [файл1](https://docs.google.com/spreadsheets/d/18ek_iU10hfggL4hoZc1ZDtuCjPJ-kBYNxu5rq4niK90/edit?usp=sharing) -- сделайте себе копию и работайте с ней  
+Вариант 2 - конструкции типа "Человек человеку друг..." [отсюда](https://docs.google.com/spreadsheets/d/1WIUaz2zORr-Cm2R1qVUSNpqdgxcVq1bNl-5Lx0-ltIY/edit?usp=sharing)  
+Вариант 3 - таблица N-грамм [отсюда](https://docs.google.com/spreadsheets/d/1nRaY1rKdbQXDmtiGbYAWqfz0y4N8HMTxthth8iv9N4w/edit?usp=sharing) - сохраните себе их копию.  
+Можно также скачать выдачу из НКРЯ, Araneum или других корпусов для интересующего вас языкового явления.  
+Можно также скачать таблицу (самых частотных) n-грам корпуса.
+
 
 #### Темы практикума  
 * Сортировки  
