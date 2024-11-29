@@ -33,7 +33,7 @@
 Д/з: [AntConc](https://docs.google.com/forms/d/e/1FAIpQLSdghM5HUuAP0VGixeJkVVo7hIuxnlxaRSxTEuC6TnuUYdhj_Q/viewform)
 
 #### 8. Анализ выдачи из корпуса (работа в табличном редакторе) [Практикум 8](practicum-spreadsheets.md) [видео](https://disk.yandex.ru/i/v2T4N3AaXPS8kQ)
-Д/з: [Сводные таблицы]()
+Д/з: [Сводные таблицы](https://forms.gle/3NYNbKVx4G9tEikF8)
 
 #### Контрольная работа 
 в понедельник 9 ноября на пятой паре 
