@@ -35,6 +35,10 @@
 #### 8. Анализ выдачи из корпуса (работа в табличном редакторе) [Практикум 8](practicum-spreadsheets.md) [видео](https://disk.yandex.ru/i/v2T4N3AaXPS8kQ)
 Д/з: [Сводные таблицы](https://forms.gle/3NYNbKVx4G9tEikF8)
 
+#### 9. Объединение данных из нескольких таблиц. Интерпретация значимости наблюдений. [Практикум 9](practicum-spreadsheets-merging.md) [Котики VS. роботы](https://docs.google.com/spreadsheets/d/1n73pj4khl5ze9fyyC6QVYDDLFPlrWbXT4YY0_aiPSBo/edit?usp=sharing)
+
+Д/з: [Объединение нескольких таблиц](hw9_spreadsheets-merging.md)
+
 #### Контрольная работа 
 в понедельник 9 ноября на пятой паре 
 [материалы для подготовки](test-drill.md) 
