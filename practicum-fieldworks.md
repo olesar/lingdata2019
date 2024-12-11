@@ -58,5 +58,8 @@
 * [видео](https://disk.yandex.ru/i/iSw3uDh4kZubXg) тьюториала С. Ю. Толдовой  
 * [История создания](https://www.sil.org/about/history) Summer Institute of Linguistics (SIL)  
 * [обучающие ролики](https://software.sil.org/fieldworks/download/demo-movies/index-of-demo-movies/)  
-* [обучающие ролики](Linguistics Institute Payap University) Linguistics Institute Payap University  
+* [обучающие ролики FLeX](https://www.youtube.com/watch?v=K9yuZ6lKVrc&list=PLJLUPwIFOI8fYftqs5FBS9j9NEnPKvq60) Канал Linguistics Institute Payap University  
 * [тьюториал](fig/FLEx-HSE-20201124.pdf) А. Архипова в ВШЭ  
+* Лейпцигские правила глоссирования [LGR](https://www.eva.mpg.de/lingua/resources/glossing-rules.php)  
+Примеры:  
+* R. Gersamia, I. Lobzhanidze. The Megrelian Language in FLEx: Texts, Lexicon, Grammar [pdf](https://kld.iliauni.edu.ge/abstracts/Gersamia_Lobzhanidze_Eng.pdf)  
