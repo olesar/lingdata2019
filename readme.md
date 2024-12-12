@@ -42,7 +42,7 @@
 #### 10. Fieldworks [Практикум 10](https://github.com/olesar/lingdata/blob/gh-pages/practicum-fieldworks.md)
 Д/з нет :)
 
-### Экзамен   [описание](exam_project)
+### Экзамен   [описание](https://github.com/olesar/lingdata/blob/gh-pages/exam_project.md)
 27 декабря
 
 #### Контрольная работа 
